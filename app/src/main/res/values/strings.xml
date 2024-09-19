@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityIntent</string>
+    <string name="open_2nd">Open Second Activity</string>
+    <string name="second">Second Activity</string>
+</resources>
